@@ -15,4 +15,9 @@ body{
 }
 .parceiros{
     background-color: #FFFE33;
+    color:azure
+}
+.bg-footer{
+    background-color: black;
+    color: azure;
 }
